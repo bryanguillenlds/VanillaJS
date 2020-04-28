@@ -1,36 +1,15 @@
-# CIT261
-# Projects to help me Study for CIT 261
+# COLLECTION OF PROJECTS
 
-Link for ToDo App: https://bryansilva10.github.io/CIT261/ToDo-App/index.html
+Song Lyrics Finder: https://bryansilva10.github.io/VanillaJS/lyrics-finder/index.html
 
-Link for Tic Tac Toe Board: https://bryansilva10.github.io/CIT261/W04-Tic-tac-toe/index.html
+Exchange Rate Calculator: https://bryansilva10.github.io/VanillaJS/exchange-rate/index.html
 
-Link for Hiking Website, week 3: https://bryansilva10.github.io/CIT261/W03-ClassActivity/index.html
+Meal Finder: https://bryansilva10.github.io/VanillaJS/meal-finder/index.html
 
-BONUS PROJECT - Rock | Paper | Scissors Game: https://bryansilva10.github.io/CIT261/Rock-Paper-Scissors/index.html
+Budget App: https://bryansilva10.github.io/VanillaJS/budget-app/index.html
 
-# COLLECTION OF FINAL PROJECTS
+Flash Cards App: https://bryansilva10.github.io/VanillaJS/memory-cards/index.html
 
-----First 4 are inspired on JavaScript30----
+Typing Game: https://bryansilva10.github.io/VanillaJS/typing%20game/index.html
 
-Drum Kit: https://bryansilva10.github.io/CIT261/Simple%20Drum%20Kit/index.html
-
-Local Tacos Ingredient List: https://bryansilva10.github.io/CIT261/local-restaurant/index.html 
-
-Search Bar with Filtered Suggestions: https://bryansilva10.github.io/CIT261/Search-bar-suggestion/index.html
-
-Whack A Mole Game: https://bryansilva10.github.io/CIT261/Whack-A-Mole/index.html
-
----------------------------
-
-Exchange Rate Calculator: https://bryansilva10.github.io/CIT261/exchange-rate/index.html
-
-Meal Finder: https://bryansilva10.github.io/CIT261/meal-finder/index.html
-
-Budget App: https://bryansilva10.github.io/CIT261/budget-app/index.html
-
-Flash Cards App: https://bryansilva10.github.io/CIT261/memory-cards/index.html
-
-Song Lyrics Finder: https://bryansilva10.github.io/CIT261/lyrics-finder/index.html
-
-Typing Game: https://bryansilva10.github.io/CIT261/typing%20game/index.html
+Whack A Mole Game: https://bryansilva10.github.io/VanillaJS/Whack-A-Mole/index.html

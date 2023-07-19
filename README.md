@@ -1,10 +1,6 @@
 # COLLECTION OF PROJECTS
 
-Song Lyrics Finder: https://bryansilva10.github.io/VanillaJS/lyrics-finder/index.html
-
 Exchange Rate Calculator: https://bryansilva10.github.io/VanillaJS/exchange-rate/index.html
-
-Meal Finder: https://bryansilva10.github.io/VanillaJS/meal-finder/index.html
 
 Budget App: https://bryansilva10.github.io/VanillaJS/budget-app/index.html
 
